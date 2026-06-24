@@ -18,7 +18,7 @@ This repository is a showcase for the project, not a source-code release. The pr
 
 ## Links
 
-- Roblox game: Coming soon
+- Roblox game: https://www.roblox.com/games/126630345764651/Click-the-Brainrot
 - Trailer/gameplay video: Coming soon
 
 ## Screenshots
@@ -34,4 +34,3 @@ Example:
 ## Repository Notice
 
 This public repository is for portfolio and presentation purposes only. It does not contain the Roblox place file, internal source files, private assets, admin logic, monetization logic, or data systems.
-
