@@ -1,0 +1,16 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Roblox source/place files should stay out of this public portfolio repo
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+
+# Large local media drafts
+*.mp4
+*.mov
+*.avi
+
